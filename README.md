@@ -1,6 +1,6 @@
 # Student Loan & Payment Management System
 
-A web-based relational application designed to support **Student Management**, **Student Loan Management**, and **Payment Loan Management**. This project was developed as part of the Prelim Laboratory Exam for **CCS112 – Application Development and Emerging Technologies** at Pamantasan ng Cabuyao.
+A web-based relational application designed to support **Student Management**, **Student Loan Management**, and **Payment Loan Management**.
 
 ---
 
